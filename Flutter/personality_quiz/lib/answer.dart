@@ -8,9 +8,9 @@ class Answer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return Container(
-      width: double.infinity,
+      padding: EdgeInsets.symmetric(horizontal: 30),
+      decoration: BoxDecoration(borderRadius: BorderRadius.all(Radius.circular(10))) ,
       child: RaisedButton(
         color: Colors.indigo,
         textColor: Colors.white,
