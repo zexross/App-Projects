@@ -48,10 +48,10 @@ class DemoAppV1State extends State<DemoAppV1> {
       {
         'questionText': 'What\'s your favorite animal',
         'answers': [
-          {'text': 'Rabbit', 'score': 1},
+          {'text': 'Rabbit', 'score': 2},
           {'text': 'Dog', 'score': 6},
           {'text': 'Horse', 'score': 4},
-          {'text': 'Wolf', 'score': 9},
+          {'text': 'Wolf', 'score': 10},
           {'text': 'Bat', 'score': 7}
         ]
       },
