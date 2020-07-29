@@ -1,0 +1,4 @@
+#Sun Aug 11 19:42:11 IST 2019
+base.0=C\:\\Users\\youze\\Documents\\Android\\MyGraph\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

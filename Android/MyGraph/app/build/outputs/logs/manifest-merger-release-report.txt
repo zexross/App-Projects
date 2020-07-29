@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\4684ba2739b5e7aff3bd0517b507650a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\fe6af57a41bf6bd7c1f6475aeb663ead\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\34a2a8852fb017cd8a848d538adebb66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\402d37373e5a1b628da65ee247a60ff1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\eacc391d52230a8e6dd8cfb80f4510cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0a2502014e3d6a23b70be588cddadc3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\ece0e0e8ad8c73a273cd7aed43bf6ec3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\a3c9890013fd3240667e358760d9bcd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\9e69d7dd6b55cc3d1b3ebff41beaa9f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\2d400e4578f5fb5f84b2c736bab8c962\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\2f13bbeb8d25f0935fbe7c37c6d151f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\e76350f2cf8e99bebb806306bed8d0c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\6d229f3acc8f87e62adc13ac031afe26\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\1fcb88f8792d3ac95ad49656c32645c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\216e5e900a8f5e659d70fb4f829e4eff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0622ab36e434703a442426db1dc68eac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\7e7bf97b45e39d2f0dcb03f9588c7d58\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\a4be055790515cd4d0ae51b4386889e9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\a5a542c3ff2fbc8d8c65d51495b6b239\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\334e20e130b2bf2d902b4bc0f0f442e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\f02aa6fb1f53fe545f2976ad0c76adc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\cf83d31591620818f39a66f7e3ea8819\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0e6b18c75265fd9e6708a2fe1efcadb5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\36cbb70d38b9dd55c19ee3485992accc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\061c9d4210b0d87155e7dbc9139da54f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\85fcbc9f9dad482fee2af9c1eb50761c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\f169673ec3470d3193c8c3c36500678e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\fe6af57a41bf6bd7c1f6475aeb663ead\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\fe6af57a41bf6bd7c1f6475aeb663ead\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0622ab36e434703a442426db1dc68eac\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0622ab36e434703a442426db1dc68eac\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\7e7bf97b45e39d2f0dcb03f9588c7d58\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\7e7bf97b45e39d2f0dcb03f9588c7d58\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0622ab36e434703a442426db1dc68eac\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.mygraph.MainActivity
+ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\4684ba2739b5e7aff3bd0517b507650a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\4684ba2739b5e7aff3bd0517b507650a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\fe6af57a41bf6bd7c1f6475aeb663ead\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\fe6af57a41bf6bd7c1f6475aeb663ead\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\34a2a8852fb017cd8a848d538adebb66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\34a2a8852fb017cd8a848d538adebb66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\402d37373e5a1b628da65ee247a60ff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\402d37373e5a1b628da65ee247a60ff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\eacc391d52230a8e6dd8cfb80f4510cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\eacc391d52230a8e6dd8cfb80f4510cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0a2502014e3d6a23b70be588cddadc3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0a2502014e3d6a23b70be588cddadc3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\ece0e0e8ad8c73a273cd7aed43bf6ec3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\ece0e0e8ad8c73a273cd7aed43bf6ec3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\a3c9890013fd3240667e358760d9bcd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\a3c9890013fd3240667e358760d9bcd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\9e69d7dd6b55cc3d1b3ebff41beaa9f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\9e69d7dd6b55cc3d1b3ebff41beaa9f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\2d400e4578f5fb5f84b2c736bab8c962\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\2d400e4578f5fb5f84b2c736bab8c962\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\2f13bbeb8d25f0935fbe7c37c6d151f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\2f13bbeb8d25f0935fbe7c37c6d151f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\e76350f2cf8e99bebb806306bed8d0c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\e76350f2cf8e99bebb806306bed8d0c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\6d229f3acc8f87e62adc13ac031afe26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\6d229f3acc8f87e62adc13ac031afe26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\1fcb88f8792d3ac95ad49656c32645c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\1fcb88f8792d3ac95ad49656c32645c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\216e5e900a8f5e659d70fb4f829e4eff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\216e5e900a8f5e659d70fb4f829e4eff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0622ab36e434703a442426db1dc68eac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0622ab36e434703a442426db1dc68eac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\7e7bf97b45e39d2f0dcb03f9588c7d58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\7e7bf97b45e39d2f0dcb03f9588c7d58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\a4be055790515cd4d0ae51b4386889e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\a4be055790515cd4d0ae51b4386889e9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\a5a542c3ff2fbc8d8c65d51495b6b239\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\a5a542c3ff2fbc8d8c65d51495b6b239\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\334e20e130b2bf2d902b4bc0f0f442e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\334e20e130b2bf2d902b4bc0f0f442e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\f02aa6fb1f53fe545f2976ad0c76adc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\f02aa6fb1f53fe545f2976ad0c76adc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\cf83d31591620818f39a66f7e3ea8819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\cf83d31591620818f39a66f7e3ea8819\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0e6b18c75265fd9e6708a2fe1efcadb5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\0e6b18c75265fd9e6708a2fe1efcadb5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\36cbb70d38b9dd55c19ee3485992accc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\36cbb70d38b9dd55c19ee3485992accc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\061c9d4210b0d87155e7dbc9139da54f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\061c9d4210b0d87155e7dbc9139da54f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\85fcbc9f9dad482fee2af9c1eb50761c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\85fcbc9f9dad482fee2af9c1eb50761c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\f169673ec3470d3193c8c3c36500678e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\youze\.gradle\caches\transforms-2\files-2.1\f169673ec3470d3193c8c3c36500678e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\youze\Documents\Android\MyGraph\app\src\main\AndroidManifest.xml
